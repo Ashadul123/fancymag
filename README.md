@@ -3,8 +3,8 @@
 # Particle Style – A Custom LaTeX Package
 
 **Authors:** Ashadul Halder and Soumik Ghosh  
-**License:** LPPL v1.3c (fonts under SIL Open Font License v1.1)
-**Font License:** SIL Open Font License v1.1
+**License:** LPPL v1.3c (fonts under SIL Open Font License v1.1)  
+**Font License:** SIL Open Font License v1.1  
 Available at [CTAN: fancymag](https://ctan.org/pkg/fancymag)
 
 ---
